@@ -1,0 +1,3 @@
+title = "gert.github.io"
+baseURL = "https://gertfeenstra.github.io/"
+theme = "hugo-theme-gallery"
